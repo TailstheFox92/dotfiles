@@ -1,0 +1,6 @@
+2023/06/04-13:50:22.545 561 Creating DB /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_adamtheautomator.com_0.indexeddb.leveldb since it was missing.
+2023/06/04-13:50:22.551 561 Reusing MANIFEST /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_adamtheautomator.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/04-13:50:54.677 562 Level-0 table #5: started
+2023/06/04-13:50:54.680 562 Level-0 table #5: 1577 bytes OK
+2023/06/04-13:50:54.683 562 Delete type=0 #3
+2023/06/04-13:50:54.683 562 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

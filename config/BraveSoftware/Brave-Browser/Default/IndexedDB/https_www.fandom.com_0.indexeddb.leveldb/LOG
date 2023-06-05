@@ -1,0 +1,7 @@
+2023/06/04-13:16:31.365 561 Reusing MANIFEST /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/04-13:16:31.365 561 Recovering log #3
+2023/06/04-13:16:31.366 561 Reusing old log /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000003.log 
+2023/06/04-13:17:44.055 562 Level-0 table #5: started
+2023/06/04-13:17:44.057 562 Level-0 table #5: 5381 bytes OK
+2023/06/04-13:17:44.061 562 Delete type=0 #3
+2023/06/04-13:17:44.061 562 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

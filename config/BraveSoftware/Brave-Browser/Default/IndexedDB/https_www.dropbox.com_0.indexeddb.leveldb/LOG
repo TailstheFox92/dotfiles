@@ -1,0 +1,6 @@
+2023/05/28-19:34:06.088 ee88 Creating DB /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb since it was missing.
+2023/05/28-19:34:06.095 ee88 Reusing MANIFEST /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/28-19:34:33.868 ee89 Level-0 table #5: started
+2023/05/28-19:34:33.877 ee89 Level-0 table #5: 434193 bytes OK
+2023/05/28-19:34:33.887 ee89 Delete type=0 #3
+2023/05/28-19:34:33.887 ee89 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,16 @@
+2023/06/03-11:21:44.220 39e7 Reusing MANIFEST /home/gfernandez/.config/fluent-reader/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/06/03-11:21:44.220 39e7 Recovering log #3
+2023/06/03-11:21:44.220 39e7 Reusing old log /home/gfernandez/.config/fluent-reader/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2023/06/03-11:34:28.946 4084 Level-0 table #5: started
+2023/06/03-11:34:28.963 4084 Level-0 table #5: 1414955 bytes OK
+2023/06/03-11:34:28.967 4084 Delete type=0 #3
+2023/06/03-11:37:03.097 4084 Level-0 table #7: started
+2023/06/03-11:37:03.114 4084 Level-0 table #7: 1628577 bytes OK
+2023/06/03-11:37:03.118 4084 Delete type=0 #4
+2023/06/03-11:37:32.658 4084 Level-0 table #9: started
+2023/06/03-11:37:32.675 4084 Level-0 table #9: 1641439 bytes OK
+2023/06/03-11:37:32.680 4084 Delete type=0 #6
+2023/06/03-11:37:32.682 4084 Compacting 1@0 + 1@1 files
+2023/06/03-11:37:32.705 4084 Generated table #10@0: 10789 keys, 178272 bytes
+2023/06/03-11:37:32.705 4084 Compacted 1@0 + 1@1 files => 178272 bytes
+2023/06/03-11:37:32.712 4084 compacted to: files[ 0 1 1 0 0 0 0 ]

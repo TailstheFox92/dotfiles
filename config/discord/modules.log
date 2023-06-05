@@ -1,0 +1,1144 @@
+2023-05-28T06:40:12.721Z [Modules] Modules initializing
+2023-05-28T06:40:12.721Z [Modules] Distribution: remote
+2023-05-28T06:40:12.721Z [Modules] Host updates: enabled
+2023-05-28T06:40:12.721Z [Modules] Module updates: enabled
+2023-05-28T06:40:12.721Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-28T06:40:12.722Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-28T06:40:12.722Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-28T06:40:12.852Z [Modules] Bootstrapping...
+2023-05-28T06:40:12.852Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-05-28T06:40:12.853Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-05-28T06:40:12.853Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-05-28T06:40:12.853Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-05-28T06:40:12.854Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-05-28T06:40:12.854Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-05-28T06:40:12.854Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-05-28T06:40:12.854Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-05-28T06:40:12.854Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-05-28T06:40:12.854Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-05-28T06:40:12.854Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-05-28T06:40:12.855Z [Modules] Checking for host updates.
+2023-05-28T06:40:13.042Z [Modules] Host is up to date.
+2023-05-28T06:40:13.042Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T06:40:13.111Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-05-28T06:40:13.111Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-05-28T06:40:13.111Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-05-28T06:40:13.111Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-05-28T06:40:13.111Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-05-28T06:40:13.111Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-05-28T06:40:13.111Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-05-28T06:40:13.347Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 2%
+2023-05-28T06:40:13.372Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 5%
+2023-05-28T06:40:13.374Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 6%
+2023-05-28T06:40:13.394Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 10%
+2023-05-28T06:40:13.403Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 14%
+2023-05-28T06:40:13.406Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 15%
+2023-05-28T06:40:13.409Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 17%
+2023-05-28T06:40:13.411Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 18%
+2023-05-28T06:40:13.412Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 19%
+2023-05-28T06:40:13.414Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 20%
+2023-05-28T06:40:13.415Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 21%
+2023-05-28T06:40:13.418Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 22%
+2023-05-28T06:40:13.419Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 23%
+2023-05-28T06:40:13.421Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 24%
+2023-05-28T06:40:13.422Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 25%
+2023-05-28T06:40:13.424Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 26%
+2023-05-28T06:40:13.425Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 27%
+2023-05-28T06:40:13.427Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 28%
+2023-05-28T06:40:13.428Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 29%
+2023-05-28T06:40:13.430Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 30%
+2023-05-28T06:40:13.431Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 31%
+2023-05-28T06:40:13.433Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 33%
+2023-05-28T06:40:13.434Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 34%
+2023-05-28T06:40:13.435Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 35%
+2023-05-28T06:40:13.437Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 36%
+2023-05-28T06:40:13.438Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 37%
+2023-05-28T06:40:13.440Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 38%
+2023-05-28T06:40:13.441Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 39%
+2023-05-28T06:40:13.442Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 40%
+2023-05-28T06:40:13.444Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 41%
+2023-05-28T06:40:13.445Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 42%
+2023-05-28T06:40:13.446Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 43%
+2023-05-28T06:40:13.448Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 44%
+2023-05-28T06:40:13.449Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 45%
+2023-05-28T06:40:13.451Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 46%
+2023-05-28T06:40:13.452Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 47%
+2023-05-28T06:40:13.453Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 49%
+2023-05-28T06:40:13.455Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 50%
+2023-05-28T06:40:13.456Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 51%
+2023-05-28T06:40:13.458Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 52%
+2023-05-28T06:40:13.459Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 53%
+2023-05-28T06:40:13.460Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 54%
+2023-05-28T06:40:13.462Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 55%
+2023-05-28T06:40:13.463Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 56%
+2023-05-28T06:40:13.465Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 57%
+2023-05-28T06:40:13.466Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 58%
+2023-05-28T06:40:13.467Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 59%
+2023-05-28T06:40:13.469Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 60%
+2023-05-28T06:40:13.470Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 61%
+2023-05-28T06:40:13.472Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 62%
+2023-05-28T06:40:13.473Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 64%
+2023-05-28T06:40:13.474Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 65%
+2023-05-28T06:40:13.476Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 66%
+2023-05-28T06:40:13.477Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 67%
+2023-05-28T06:40:13.479Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 68%
+2023-05-28T06:40:13.480Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 69%
+2023-05-28T06:40:13.481Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 70%
+2023-05-28T06:40:13.483Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 71%
+2023-05-28T06:40:13.484Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 72%
+2023-05-28T06:40:13.486Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 73%
+2023-05-28T06:40:13.487Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 74%
+2023-05-28T06:40:13.488Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 75%
+2023-05-28T06:40:13.490Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 76%
+2023-05-28T06:40:13.515Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 81%
+2023-05-28T06:40:13.522Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 83%
+2023-05-28T06:40:13.523Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 87%
+2023-05-28T06:40:13.527Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 90%
+2023-05-28T06:40:13.529Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 95%
+2023-05-28T06:40:13.531Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 99%
+2023-05-28T06:40:13.531Z [Modules] Streaming discord_desktop_core@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 100%
+2023-05-28T06:40:13.531Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-05-28T06:40:13.531Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-05-28T06:40:13.646Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 1%
+2023-05-28T06:40:13.647Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 2%
+2023-05-28T06:40:13.649Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 3%
+2023-05-28T06:40:13.650Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 4%
+2023-05-28T06:40:13.652Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 5%
+2023-05-28T06:40:13.653Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 6%
+2023-05-28T06:40:13.654Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 7%
+2023-05-28T06:40:13.656Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 8%
+2023-05-28T06:40:13.657Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 9%
+2023-05-28T06:40:13.659Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 10%
+2023-05-28T06:40:13.660Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 11%
+2023-05-28T06:40:13.661Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 12%
+2023-05-28T06:40:13.663Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 13%
+2023-05-28T06:40:13.664Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 14%
+2023-05-28T06:40:13.666Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 15%
+2023-05-28T06:40:13.667Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 16%
+2023-05-28T06:40:13.668Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 17%
+2023-05-28T06:40:13.670Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 18%
+2023-05-28T06:40:13.671Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 19%
+2023-05-28T06:40:13.673Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 20%
+2023-05-28T06:40:13.674Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 21%
+2023-05-28T06:40:13.675Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 22%
+2023-05-28T06:40:13.677Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 23%
+2023-05-28T06:40:13.678Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 24%
+2023-05-28T06:40:13.680Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 25%
+2023-05-28T06:40:13.682Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 26%
+2023-05-28T06:40:13.684Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 27%
+2023-05-28T06:40:13.685Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 28%
+2023-05-28T06:40:13.686Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 29%
+2023-05-28T06:40:13.688Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 30%
+2023-05-28T06:40:13.739Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 32%
+2023-05-28T06:40:13.742Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 36%
+2023-05-28T06:40:13.745Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 40%
+2023-05-28T06:40:13.747Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 44%
+2023-05-28T06:40:13.747Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 47%
+2023-05-28T06:40:13.751Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 50%
+2023-05-28T06:40:13.751Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 51%
+2023-05-28T06:40:13.751Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 59%
+2023-05-28T06:40:13.752Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 70%
+2023-05-28T06:40:13.752Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 75%
+2023-05-28T06:40:13.753Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 76%
+2023-05-28T06:40:13.755Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 77%
+2023-05-28T06:40:13.758Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 78%
+2023-05-28T06:40:13.759Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 79%
+2023-05-28T06:40:13.760Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 80%
+2023-05-28T06:40:13.762Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 81%
+2023-05-28T06:40:13.763Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 82%
+2023-05-28T06:40:13.765Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 83%
+2023-05-28T06:40:13.766Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 84%
+2023-05-28T06:40:13.767Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 85%
+2023-05-28T06:40:13.769Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 86%
+2023-05-28T06:40:13.770Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 87%
+2023-05-28T06:40:13.772Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 88%
+2023-05-28T06:40:13.773Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 89%
+2023-05-28T06:40:13.774Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 90%
+2023-05-28T06:40:13.776Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 91%
+2023-05-28T06:40:13.778Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 92%
+2023-05-28T06:40:13.780Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 93%
+2023-05-28T06:40:13.781Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 94%
+2023-05-28T06:40:13.783Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 95%
+2023-05-28T06:40:13.784Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 96%
+2023-05-28T06:40:13.785Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 97%
+2023-05-28T06:40:13.787Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 98%
+2023-05-28T06:40:13.788Z [Modules] Streaming discord_erlpack@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 100%
+2023-05-28T06:40:13.789Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-05-28T06:40:13.789Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-05-28T06:40:13.923Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 1%
+2023-05-28T06:40:13.931Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 2%
+2023-05-28T06:40:13.940Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 3%
+2023-05-28T06:40:13.948Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 4%
+2023-05-28T06:40:13.957Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 5%
+2023-05-28T06:40:14.016Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 6%
+2023-05-28T06:40:14.020Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 7%
+2023-05-28T06:40:14.021Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 8%
+2023-05-28T06:40:14.021Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 9%
+2023-05-28T06:40:14.022Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 10%
+2023-05-28T06:40:14.022Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 11%
+2023-05-28T06:40:14.022Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 12%
+2023-05-28T06:40:14.028Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 13%
+2023-05-28T06:40:14.037Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 14%
+2023-05-28T06:40:14.045Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 15%
+2023-05-28T06:40:14.055Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 16%
+2023-05-28T06:40:14.063Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 17%
+2023-05-28T06:40:14.120Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 18%
+2023-05-28T06:40:14.128Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 19%
+2023-05-28T06:40:14.129Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 20%
+2023-05-28T06:40:14.140Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 21%
+2023-05-28T06:40:14.140Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 22%
+2023-05-28T06:40:14.142Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 23%
+2023-05-28T06:40:14.147Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 24%
+2023-05-28T06:40:14.150Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 25%
+2023-05-28T06:40:14.154Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 26%
+2023-05-28T06:40:14.164Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 27%
+2023-05-28T06:40:14.172Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 28%
+2023-05-28T06:40:14.180Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 29%
+2023-05-28T06:40:14.237Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 30%
+2023-05-28T06:40:14.246Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 31%
+2023-05-28T06:40:14.249Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 32%
+2023-05-28T06:40:14.253Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 33%
+2023-05-28T06:40:14.314Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 34%
+2023-05-28T06:40:14.314Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 35%
+2023-05-28T06:40:14.315Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 37%
+2023-05-28T06:40:14.315Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 38%
+2023-05-28T06:40:14.357Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 39%
+2023-05-28T06:40:14.365Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 40%
+2023-05-28T06:40:14.421Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 41%
+2023-05-28T06:40:14.421Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 42%
+2023-05-28T06:40:14.421Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 44%
+2023-05-28T06:40:14.422Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 45%
+2023-05-28T06:40:14.427Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 46%
+2023-05-28T06:40:14.427Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 47%
+2023-05-28T06:40:14.427Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 48%
+2023-05-28T06:40:14.428Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 50%
+2023-05-28T06:40:14.428Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 51%
+2023-05-28T06:40:14.430Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 52%
+2023-05-28T06:40:14.440Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 53%
+2023-05-28T06:40:14.486Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 54%
+2023-05-28T06:40:14.487Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 55%
+2023-05-28T06:40:14.487Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 56%
+2023-05-28T06:40:14.489Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 57%
+2023-05-28T06:40:14.497Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 58%
+2023-05-28T06:40:14.502Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 59%
+2023-05-28T06:40:14.502Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 60%
+2023-05-28T06:40:14.502Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 61%
+2023-05-28T06:40:14.507Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 62%
+2023-05-28T06:40:14.515Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 63%
+2023-05-28T06:40:14.524Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 64%
+2023-05-28T06:40:14.532Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 65%
+2023-05-28T06:40:14.542Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 66%
+2023-05-28T06:40:14.551Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 67%
+2023-05-28T06:40:14.559Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 68%
+2023-05-28T06:40:14.568Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 69%
+2023-05-28T06:40:14.576Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 70%
+2023-05-28T06:40:14.584Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 71%
+2023-05-28T06:40:14.594Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 72%
+2023-05-28T06:40:14.603Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 73%
+2023-05-28T06:40:14.611Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 74%
+2023-05-28T06:40:14.655Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 75%
+2023-05-28T06:40:14.660Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 76%
+2023-05-28T06:40:14.660Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 77%
+2023-05-28T06:40:14.660Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 78%
+2023-05-28T06:40:14.660Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 79%
+2023-05-28T06:40:14.663Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 80%
+2023-05-28T06:40:14.671Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 81%
+2023-05-28T06:40:14.679Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 82%
+2023-05-28T06:40:14.689Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 83%
+2023-05-28T06:40:14.698Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 84%
+2023-05-28T06:40:14.706Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 85%
+2023-05-28T06:40:14.714Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 86%
+2023-05-28T06:40:14.723Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 87%
+2023-05-28T06:40:14.732Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 88%
+2023-05-28T06:40:14.741Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 89%
+2023-05-28T06:40:14.749Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 90%
+2023-05-28T06:40:14.758Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 91%
+2023-05-28T06:40:14.766Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 92%
+2023-05-28T06:40:14.822Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 93%
+2023-05-28T06:40:14.827Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 94%
+2023-05-28T06:40:14.829Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 95%
+2023-05-28T06:40:14.829Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 96%
+2023-05-28T06:40:14.829Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 97%
+2023-05-28T06:40:14.830Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 98%
+2023-05-28T06:40:14.830Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 99%
+2023-05-28T06:40:14.834Z [Modules] Streaming discord_spellcheck@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 100%
+2023-05-28T06:40:14.834Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-05-28T06:40:14.834Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-05-28T06:40:14.949Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 1%
+2023-05-28T06:40:14.952Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 2%
+2023-05-28T06:40:14.955Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 3%
+2023-05-28T06:40:14.958Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 4%
+2023-05-28T06:40:14.961Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 5%
+2023-05-28T06:40:14.963Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 6%
+2023-05-28T06:40:14.966Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 7%
+2023-05-28T06:40:14.968Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 8%
+2023-05-28T06:40:14.970Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 9%
+2023-05-28T06:40:14.973Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 10%
+2023-05-28T06:40:14.976Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 11%
+2023-05-28T06:40:14.979Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 12%
+2023-05-28T06:40:14.981Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 13%
+2023-05-28T06:40:14.983Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 14%
+2023-05-28T06:40:14.986Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 15%
+2023-05-28T06:40:14.988Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 16%
+2023-05-28T06:40:14.991Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 17%
+2023-05-28T06:40:14.994Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 18%
+2023-05-28T06:40:14.997Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 19%
+2023-05-28T06:40:15.000Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 20%
+2023-05-28T06:40:15.001Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 21%
+2023-05-28T06:40:15.004Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 22%
+2023-05-28T06:40:15.007Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 23%
+2023-05-28T06:40:15.009Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 24%
+2023-05-28T06:40:15.012Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 25%
+2023-05-28T06:40:15.015Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 26%
+2023-05-28T06:40:15.018Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 27%
+2023-05-28T06:40:15.019Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 28%
+2023-05-28T06:40:15.022Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 29%
+2023-05-28T06:40:15.025Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 30%
+2023-05-28T06:40:15.028Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 31%
+2023-05-28T06:40:15.030Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 32%
+2023-05-28T06:40:15.033Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 33%
+2023-05-28T06:40:15.035Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 34%
+2023-05-28T06:40:15.037Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 35%
+2023-05-28T06:40:15.040Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 36%
+2023-05-28T06:40:15.043Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 37%
+2023-05-28T06:40:15.046Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 38%
+2023-05-28T06:40:15.048Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 39%
+2023-05-28T06:40:15.051Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 40%
+2023-05-28T06:40:15.053Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 41%
+2023-05-28T06:40:15.055Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 42%
+2023-05-28T06:40:15.058Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 43%
+2023-05-28T06:40:15.061Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 44%
+2023-05-28T06:40:15.064Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 45%
+2023-05-28T06:40:15.066Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 46%
+2023-05-28T06:40:15.069Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 47%
+2023-05-28T06:40:15.072Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 48%
+2023-05-28T06:40:15.073Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 49%
+2023-05-28T06:40:15.076Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 50%
+2023-05-28T06:40:15.079Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 51%
+2023-05-28T06:40:15.082Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 52%
+2023-05-28T06:40:15.085Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 53%
+2023-05-28T06:40:15.087Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 54%
+2023-05-28T06:40:15.089Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 55%
+2023-05-28T06:40:15.092Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 56%
+2023-05-28T06:40:15.094Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 57%
+2023-05-28T06:40:15.097Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 58%
+2023-05-28T06:40:15.100Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 59%
+2023-05-28T06:40:15.103Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 60%
+2023-05-28T06:40:15.106Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 61%
+2023-05-28T06:40:15.107Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 62%
+2023-05-28T06:40:15.110Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 63%
+2023-05-28T06:40:15.113Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 64%
+2023-05-28T06:40:15.115Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 65%
+2023-05-28T06:40:15.118Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 66%
+2023-05-28T06:40:15.121Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 67%
+2023-05-28T06:40:15.124Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 68%
+2023-05-28T06:40:15.125Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 69%
+2023-05-28T06:40:15.128Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 70%
+2023-05-28T06:40:15.131Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 71%
+2023-05-28T06:40:15.134Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 72%
+2023-05-28T06:40:15.166Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 74%
+2023-05-28T06:40:15.168Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 75%
+2023-05-28T06:40:15.173Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 77%
+2023-05-28T06:40:15.176Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 78%
+2023-05-28T06:40:15.180Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 79%
+2023-05-28T06:40:15.181Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 81%
+2023-05-28T06:40:15.182Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 82%
+2023-05-28T06:40:15.185Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 84%
+2023-05-28T06:40:15.190Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 86%
+2023-05-28T06:40:15.190Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 87%
+2023-05-28T06:40:15.190Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 90%
+2023-05-28T06:40:15.190Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 94%
+2023-05-28T06:40:15.194Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 95%
+2023-05-28T06:40:15.195Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 96%
+2023-05-28T06:40:15.198Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 97%
+2023-05-28T06:40:15.201Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 98%
+2023-05-28T06:40:15.203Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 99%
+2023-05-28T06:40:15.204Z [Modules] Streaming discord_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 100%
+2023-05-28T06:40:15.204Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-05-28T06:40:15.204Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-05-28T06:40:15.341Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 1%
+2023-05-28T06:40:15.359Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 2%
+2023-05-28T06:40:15.376Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 3%
+2023-05-28T06:40:15.394Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 4%
+2023-05-28T06:40:15.411Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 5%
+2023-05-28T06:40:15.427Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 6%
+2023-05-28T06:40:15.446Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 7%
+2023-05-28T06:40:15.462Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 8%
+2023-05-28T06:40:15.481Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 9%
+2023-05-28T06:40:15.497Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 10%
+2023-05-28T06:40:15.515Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 11%
+2023-05-28T06:40:15.532Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 12%
+2023-05-28T06:40:15.550Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 13%
+2023-05-28T06:40:15.611Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 14%
+2023-05-28T06:40:15.620Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 15%
+2023-05-28T06:40:15.636Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 16%
+2023-05-28T06:40:15.637Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 17%
+2023-05-28T06:40:15.643Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 18%
+2023-05-28T06:40:15.660Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 19%
+2023-05-28T06:40:15.678Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 20%
+2023-05-28T06:40:15.695Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 21%
+2023-05-28T06:40:15.713Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 22%
+2023-05-28T06:40:15.730Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 23%
+2023-05-28T06:40:15.785Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 24%
+2023-05-28T06:40:15.790Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 25%
+2023-05-28T06:40:15.817Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 26%
+2023-05-28T06:40:15.820Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 27%
+2023-05-28T06:40:15.822Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 28%
+2023-05-28T06:40:15.840Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 29%
+2023-05-28T06:40:15.857Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 30%
+2023-05-28T06:40:15.875Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 31%
+2023-05-28T06:40:15.891Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 32%
+2023-05-28T06:40:15.908Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 33%
+2023-05-28T06:40:15.970Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 34%
+2023-05-28T06:40:15.983Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 35%
+2023-05-28T06:40:15.998Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 36%
+2023-05-28T06:40:16.007Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 37%
+2023-05-28T06:40:16.008Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 38%
+2023-05-28T06:40:16.024Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 39%
+2023-05-28T06:40:16.042Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 40%
+2023-05-28T06:40:16.059Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 41%
+2023-05-28T06:40:16.117Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 42%
+2023-05-28T06:40:16.133Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 43%
+2023-05-28T06:40:16.145Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 44%
+2023-05-28T06:40:16.162Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 45%
+2023-05-28T06:40:16.162Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 46%
+2023-05-28T06:40:16.173Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 47%
+2023-05-28T06:40:16.190Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 48%
+2023-05-28T06:40:16.248Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 49%
+2023-05-28T06:40:16.256Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 50%
+2023-05-28T06:40:16.274Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 51%
+2023-05-28T06:40:16.284Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 52%
+2023-05-28T06:40:16.284Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 53%
+2023-05-28T06:40:16.294Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 54%
+2023-05-28T06:40:16.311Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 55%
+2023-05-28T06:40:16.329Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 56%
+2023-05-28T06:40:16.395Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 57%
+2023-05-28T06:40:16.413Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 58%
+2023-05-28T06:40:16.423Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 59%
+2023-05-28T06:40:16.428Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 60%
+2023-05-28T06:40:16.433Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 61%
+2023-05-28T06:40:16.450Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 62%
+2023-05-28T06:40:16.468Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 63%
+2023-05-28T06:40:16.484Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 64%
+2023-05-28T06:40:16.549Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 65%
+2023-05-28T06:40:16.562Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 66%
+2023-05-28T06:40:16.573Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 67%
+2023-05-28T06:40:16.581Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 68%
+2023-05-28T06:40:16.587Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 69%
+2023-05-28T06:40:16.604Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 70%
+2023-05-28T06:40:16.666Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 71%
+2023-05-28T06:40:16.679Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 72%
+2023-05-28T06:40:16.683Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 73%
+2023-05-28T06:40:16.699Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 74%
+2023-05-28T06:40:16.703Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 75%
+2023-05-28T06:40:16.721Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 76%
+2023-05-28T06:40:16.784Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 77%
+2023-05-28T06:40:16.794Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 78%
+2023-05-28T06:40:16.799Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 79%
+2023-05-28T06:40:16.803Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 80%
+2023-05-28T06:40:16.820Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 81%
+2023-05-28T06:40:16.837Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 82%
+2023-05-28T06:40:16.855Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 83%
+2023-05-28T06:40:16.872Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 84%
+2023-05-28T06:40:16.890Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 85%
+2023-05-28T06:40:16.907Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 86%
+2023-05-28T06:40:16.925Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 87%
+2023-05-28T06:40:16.942Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 88%
+2023-05-28T06:40:16.960Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 89%
+2023-05-28T06:40:16.977Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 90%
+2023-05-28T06:40:16.993Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 91%
+2023-05-28T06:40:17.011Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 92%
+2023-05-28T06:40:17.028Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 93%
+2023-05-28T06:40:17.046Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 94%
+2023-05-28T06:40:17.063Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 95%
+2023-05-28T06:40:17.081Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 96%
+2023-05-28T06:40:17.098Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 97%
+2023-05-28T06:40:17.116Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 98%
+2023-05-28T06:40:17.133Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 99%
+2023-05-28T06:40:17.148Z [Modules] Streaming discord_voice@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 100%
+2023-05-28T06:40:17.149Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-05-28T06:40:17.149Z [Modules] Installing updates...
+2023-05-28T06:40:17.149Z [Modules] Installing discord_desktop_core@1 from /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-05-28T06:40:17.188Z [Modules] Installing discord_erlpack@1 from /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-05-28T06:40:17.224Z [Modules] Installing discord_spellcheck@1 from /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-05-28T06:40:17.464Z [Modules] Installing discord_utils@1 from /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-05-28T06:40:17.597Z [Modules] Installing discord_voice@1 from /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-05-28T06:40:17.932Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-05-28T06:40:17.932Z [Modules] Checking for host updates.
+2023-05-28T06:40:17.995Z [Modules] Host is up to date.
+2023-05-28T06:40:17.995Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T06:40:17.996Z [Modules] No module updates available.
+2023-05-28T06:40:19.260Z [Modules] Starting to install discord_krisp...
+2023-05-28T06:40:19.260Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-05-28T06:40:19.260Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-05-28T06:40:19.315Z [Modules] Starting to install discord_game_utils...
+2023-05-28T06:40:19.401Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 1%
+2023-05-28T06:40:19.417Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 2%
+2023-05-28T06:40:19.471Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 3%
+2023-05-28T06:40:19.473Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 4%
+2023-05-28T06:40:19.474Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 5%
+2023-05-28T06:40:19.494Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 6%
+2023-05-28T06:40:19.516Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 7%
+2023-05-28T06:40:19.536Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 8%
+2023-05-28T06:40:19.555Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 9%
+2023-05-28T06:40:19.574Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 10%
+2023-05-28T06:40:19.596Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 11%
+2023-05-28T06:40:19.651Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 12%
+2023-05-28T06:40:19.672Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 13%
+2023-05-28T06:40:19.691Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 14%
+2023-05-28T06:40:19.710Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 15%
+2023-05-28T06:40:19.726Z [Modules] Checking for host updates.
+2023-05-28T06:40:19.730Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 16%
+2023-05-28T06:40:19.749Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 17%
+2023-05-28T06:40:19.767Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 18%
+2023-05-28T06:40:19.787Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 19%
+2023-05-28T06:40:19.791Z [Modules] Host is up to date.
+2023-05-28T06:40:19.791Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T06:40:19.792Z [Modules] No module updates available.
+2023-05-28T06:40:19.807Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 20%
+2023-05-28T06:40:19.826Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 21%
+2023-05-28T06:40:19.843Z [Modules] Starting to install discord_rpc...
+2023-05-28T06:40:19.844Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 22%
+2023-05-28T06:40:19.864Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 23%
+2023-05-28T06:40:19.883Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 24%
+2023-05-28T06:40:19.909Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 25%
+2023-05-28T06:40:19.928Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 26%
+2023-05-28T06:40:19.948Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 27%
+2023-05-28T06:40:20.087Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 34%
+2023-05-28T06:40:20.113Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 35%
+2023-05-28T06:40:20.121Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 36%
+2023-05-28T06:40:20.140Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 37%
+2023-05-28T06:40:20.160Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 38%
+2023-05-28T06:40:20.178Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 39%
+2023-05-28T06:40:20.197Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 40%
+2023-05-28T06:40:20.217Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 41%
+2023-05-28T06:40:20.237Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 42%
+2023-05-28T06:40:20.255Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 43%
+2023-05-28T06:40:20.274Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 44%
+2023-05-28T06:40:20.294Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 45%
+2023-05-28T06:40:20.314Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 46%
+2023-05-28T06:40:20.332Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 47%
+2023-05-28T06:40:20.351Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 48%
+2023-05-28T06:40:20.371Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 49%
+2023-05-28T06:40:20.390Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 50%
+2023-05-28T06:40:20.408Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 51%
+2023-05-28T06:40:20.428Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 52%
+2023-05-28T06:40:20.448Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 53%
+2023-05-28T06:40:20.467Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 54%
+2023-05-28T06:40:20.485Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 55%
+2023-05-28T06:40:20.505Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 56%
+2023-05-28T06:40:20.524Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 57%
+2023-05-28T06:40:20.544Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 58%
+2023-05-28T06:40:20.563Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 59%
+2023-05-28T06:40:20.582Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 60%
+2023-05-28T06:40:20.601Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 61%
+2023-05-28T06:40:20.621Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 62%
+2023-05-28T06:40:20.640Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 63%
+2023-05-28T06:40:20.658Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 64%
+2023-05-28T06:40:20.678Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 65%
+2023-05-28T06:40:20.698Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 66%
+2023-05-28T06:40:20.717Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 67%
+2023-05-28T06:40:20.735Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 68%
+2023-05-28T06:40:20.755Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 69%
+2023-05-28T06:40:20.774Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 70%
+2023-05-28T06:40:20.794Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 71%
+2023-05-28T06:40:20.812Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 72%
+2023-05-28T06:40:20.832Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 73%
+2023-05-28T06:40:20.851Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 74%
+2023-05-28T06:40:20.871Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 75%
+2023-05-28T06:40:20.889Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 76%
+2023-05-28T06:40:20.908Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 77%
+2023-05-28T06:40:20.928Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 78%
+2023-05-28T06:40:20.948Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 79%
+2023-05-28T06:40:20.966Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 80%
+2023-05-28T06:40:20.985Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 81%
+2023-05-28T06:40:21.005Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 82%
+2023-05-28T06:40:21.024Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 83%
+2023-05-28T06:40:21.044Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 84%
+2023-05-28T06:40:21.062Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 85%
+2023-05-28T06:40:21.082Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 86%
+2023-05-28T06:40:21.101Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 87%
+2023-05-28T06:40:21.121Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 88%
+2023-05-28T06:40:21.139Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 89%
+2023-05-28T06:40:21.158Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 90%
+2023-05-28T06:40:21.178Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 91%
+2023-05-28T06:40:21.198Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 92%
+2023-05-28T06:40:21.216Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 93%
+2023-05-28T06:40:21.235Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 94%
+2023-05-28T06:40:21.255Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 95%
+2023-05-28T06:40:21.276Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 96%
+2023-05-28T06:40:21.292Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 97%
+2023-05-28T06:40:21.312Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 98%
+2023-05-28T06:40:21.332Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 99%
+2023-05-28T06:40:21.349Z [Modules] Streaming discord_krisp@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 100%
+2023-05-28T06:40:21.350Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-05-28T06:40:21.350Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-05-28T06:40:21.350Z [Modules] Installing discord_krisp@1 from /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-05-28T06:40:21.444Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 1%
+2023-05-28T06:40:21.447Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 2%
+2023-05-28T06:40:21.448Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 3%
+2023-05-28T06:40:21.451Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 4%
+2023-05-28T06:40:21.452Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 5%
+2023-05-28T06:40:21.455Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 6%
+2023-05-28T06:40:21.458Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 7%
+2023-05-28T06:40:21.459Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 8%
+2023-05-28T06:40:21.461Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 9%
+2023-05-28T06:40:21.463Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 10%
+2023-05-28T06:40:21.465Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 11%
+2023-05-28T06:40:21.467Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 12%
+2023-05-28T06:40:21.469Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 13%
+2023-05-28T06:40:21.472Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 14%
+2023-05-28T06:40:21.473Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 15%
+2023-05-28T06:40:21.477Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 16%
+2023-05-28T06:40:21.478Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 17%
+2023-05-28T06:40:21.481Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 18%
+2023-05-28T06:40:21.482Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 19%
+2023-05-28T06:40:21.485Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 20%
+2023-05-28T06:40:21.487Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 21%
+2023-05-28T06:40:21.490Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 22%
+2023-05-28T06:40:21.491Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 23%
+2023-05-28T06:40:21.494Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 24%
+2023-05-28T06:40:21.495Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 25%
+2023-05-28T06:40:21.498Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 26%
+2023-05-28T06:40:21.499Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 27%
+2023-05-28T06:40:21.502Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 28%
+2023-05-28T06:40:21.506Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 30%
+2023-05-28T06:40:21.508Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 31%
+2023-05-28T06:40:21.510Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 32%
+2023-05-28T06:40:21.512Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 33%
+2023-05-28T06:40:21.515Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 34%
+2023-05-28T06:40:21.516Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 35%
+2023-05-28T06:40:21.519Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 36%
+2023-05-28T06:40:21.520Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 37%
+2023-05-28T06:40:21.523Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 38%
+2023-05-28T06:40:21.526Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 39%
+2023-05-28T06:40:21.527Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 40%
+2023-05-28T06:40:21.530Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 41%
+2023-05-28T06:40:21.531Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 42%
+2023-05-28T06:40:21.534Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 43%
+2023-05-28T06:40:21.536Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 44%
+2023-05-28T06:40:21.538Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 45%
+2023-05-28T06:40:21.540Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 46%
+2023-05-28T06:40:21.543Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 47%
+2023-05-28T06:40:21.544Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 48%
+2023-05-28T06:40:21.547Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 49%
+2023-05-28T06:40:21.548Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 50%
+2023-05-28T06:40:21.551Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 51%
+2023-05-28T06:40:21.552Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 52%
+2023-05-28T06:40:21.555Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 53%
+2023-05-28T06:40:21.557Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 54%
+2023-05-28T06:40:21.559Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 55%
+2023-05-28T06:40:21.561Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 56%
+2023-05-28T06:40:21.564Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 57%
+2023-05-28T06:40:21.565Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 58%
+2023-05-28T06:40:21.568Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 59%
+2023-05-28T06:40:21.569Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 60%
+2023-05-28T06:40:21.572Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 61%
+2023-05-28T06:40:21.573Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 62%
+2023-05-28T06:40:21.576Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 63%
+2023-05-28T06:40:21.579Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-05-28T06:40:21.579Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 64%
+2023-05-28T06:40:21.580Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 65%
+2023-05-28T06:40:21.582Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 66%
+2023-05-28T06:40:21.585Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 67%
+2023-05-28T06:40:21.586Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 68%
+2023-05-28T06:40:21.589Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 69%
+2023-05-28T06:40:21.590Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 70%
+2023-05-28T06:40:21.593Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 71%
+2023-05-28T06:40:21.594Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 72%
+2023-05-28T06:40:21.597Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 73%
+2023-05-28T06:40:21.598Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 74%
+2023-05-28T06:40:21.601Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 75%
+2023-05-28T06:40:21.603Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 76%
+2023-05-28T06:40:21.605Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 77%
+2023-05-28T06:40:21.607Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 78%
+2023-05-28T06:40:21.610Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 79%
+2023-05-28T06:40:21.611Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 80%
+2023-05-28T06:40:21.614Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 81%
+2023-05-28T06:40:21.615Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 82%
+2023-05-28T06:40:21.618Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 83%
+2023-05-28T06:40:21.619Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 84%
+2023-05-28T06:40:21.621Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 85%
+2023-05-28T06:40:21.624Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 86%
+2023-05-28T06:40:21.626Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 87%
+2023-05-28T06:40:21.628Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 88%
+2023-05-28T06:40:21.631Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 89%
+2023-05-28T06:40:21.633Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 90%
+2023-05-28T06:40:21.635Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 91%
+2023-05-28T06:40:21.638Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 92%
+2023-05-28T06:40:21.639Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 93%
+2023-05-28T06:40:21.642Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 94%
+2023-05-28T06:40:21.643Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 95%
+2023-05-28T06:40:21.646Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 96%
+2023-05-28T06:40:21.647Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 97%
+2023-05-28T06:40:21.650Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 98%
+2023-05-28T06:40:21.652Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 99%
+2023-05-28T06:40:21.652Z [Modules] Streaming discord_game_utils@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 100%
+2023-05-28T06:40:21.652Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-05-28T06:40:21.652Z [Modules] Streaming discord_rpc@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-05-28T06:40:21.652Z [Modules] Installing discord_game_utils@1 from /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-05-28T06:40:21.690Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-05-28T06:40:21.745Z [Modules] Streaming discord_rpc@1 to /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip: 100%
+2023-05-28T06:40:21.745Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-05-28T06:40:21.746Z [Modules] Installing discord_rpc@1 from /home/gfernandez/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-05-28T06:40:21.754Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-05-28T07:40:19.727Z [Modules] Checking for host updates.
+2023-05-28T07:40:19.859Z [Modules] Host is up to date.
+2023-05-28T07:40:19.859Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T07:40:19.900Z [Modules] No module updates available.
+2023-05-28T08:40:19.728Z [Modules] Checking for host updates.
+2023-05-28T08:40:19.838Z [Modules] Host is up to date.
+2023-05-28T08:40:19.838Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T08:40:19.870Z [Modules] No module updates available.
+2023-05-28T17:51:44.951Z [Modules] Modules initializing
+2023-05-28T17:51:44.951Z [Modules] Distribution: remote
+2023-05-28T17:51:44.951Z [Modules] Host updates: enabled
+2023-05-28T17:51:44.951Z [Modules] Module updates: enabled
+2023-05-28T17:51:44.951Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-28T17:51:44.951Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-28T17:51:44.951Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-28T17:51:45.050Z [Modules] No updates to install
+2023-05-28T17:51:45.051Z [Modules] Checking for host updates.
+2023-05-28T17:51:45.202Z [Modules] Host is up to date.
+2023-05-28T17:51:45.203Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T17:51:45.238Z [Modules] No module updates available.
+2023-05-28T17:51:47.265Z [Modules] Checking for host updates.
+2023-05-28T17:51:47.333Z [Modules] Host is up to date.
+2023-05-28T17:51:47.334Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T17:51:47.335Z [Modules] No module updates available.
+2023-05-28T18:51:47.869Z [Modules] Checking for host updates.
+2023-05-28T18:51:47.995Z [Modules] Host is up to date.
+2023-05-28T18:51:47.995Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T18:51:48.032Z [Modules] No module updates available.
+2023-05-28T19:51:47.869Z [Modules] Checking for host updates.
+2023-05-28T19:51:47.978Z [Modules] Host is up to date.
+2023-05-28T19:51:47.978Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T19:51:48.019Z [Modules] No module updates available.
+2023-05-28T20:51:47.868Z [Modules] Checking for host updates.
+2023-05-28T20:51:47.993Z [Modules] Host is up to date.
+2023-05-28T20:51:47.993Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T20:51:48.027Z [Modules] No module updates available.
+2023-05-28T21:51:47.868Z [Modules] Checking for host updates.
+2023-05-28T21:51:47.985Z [Modules] Host is up to date.
+2023-05-28T21:51:47.985Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T21:51:48.028Z [Modules] No module updates available.
+2023-05-28T22:51:47.869Z [Modules] Checking for host updates.
+2023-05-28T22:51:48.004Z [Modules] Host is up to date.
+2023-05-28T22:51:48.004Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T22:51:48.039Z [Modules] No module updates available.
+2023-05-28T23:51:47.868Z [Modules] Checking for host updates.
+2023-05-28T23:51:47.976Z [Modules] Host is up to date.
+2023-05-28T23:51:47.977Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-28T23:51:48.014Z [Modules] No module updates available.
+2023-05-29T00:51:47.869Z [Modules] Checking for host updates.
+2023-05-29T00:51:48.011Z [Modules] Host is up to date.
+2023-05-29T00:51:48.011Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T00:51:48.056Z [Modules] No module updates available.
+2023-05-29T01:51:47.869Z [Modules] Checking for host updates.
+2023-05-29T01:51:47.981Z [Modules] Host is up to date.
+2023-05-29T01:51:47.981Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T01:51:48.018Z [Modules] No module updates available.
+2023-05-29T02:51:47.868Z [Modules] Checking for host updates.
+2023-05-29T02:51:47.984Z [Modules] Host is up to date.
+2023-05-29T02:51:47.984Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T02:51:48.021Z [Modules] No module updates available.
+2023-05-29T15:16:31.093Z [Modules] Modules initializing
+2023-05-29T15:16:31.093Z [Modules] Distribution: remote
+2023-05-29T15:16:31.093Z [Modules] Host updates: enabled
+2023-05-29T15:16:31.093Z [Modules] Module updates: enabled
+2023-05-29T15:16:31.093Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-29T15:16:31.093Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-29T15:16:31.093Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-29T15:16:31.210Z [Modules] No updates to install
+2023-05-29T15:16:31.210Z [Modules] Checking for host updates.
+2023-05-29T15:16:31.368Z [Modules] Host is up to date.
+2023-05-29T15:16:31.368Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T15:16:31.406Z [Modules] No module updates available.
+2023-05-29T15:16:33.310Z [Modules] Checking for host updates.
+2023-05-29T15:16:33.380Z [Modules] Host is up to date.
+2023-05-29T15:16:33.380Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T15:16:33.381Z [Modules] No module updates available.
+2023-05-29T16:16:33.927Z [Modules] Checking for host updates.
+2023-05-29T16:16:34.038Z [Modules] Host is up to date.
+2023-05-29T16:16:34.038Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T16:16:34.071Z [Modules] No module updates available.
+2023-05-29T16:37:06.331Z [Modules] Modules initializing
+2023-05-29T16:37:06.331Z [Modules] Distribution: remote
+2023-05-29T16:37:06.331Z [Modules] Host updates: enabled
+2023-05-29T16:37:06.331Z [Modules] Module updates: enabled
+2023-05-29T16:37:06.332Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-29T16:37:06.332Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-29T16:37:06.332Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-29T16:37:06.432Z [Modules] No updates to install
+2023-05-29T16:37:06.432Z [Modules] Checking for host updates.
+2023-05-29T16:37:06.575Z [Modules] Host is up to date.
+2023-05-29T16:37:06.575Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T16:37:06.612Z [Modules] No module updates available.
+2023-05-29T16:37:07.741Z [Modules] Checking for host updates.
+2023-05-29T16:37:07.815Z [Modules] Host is up to date.
+2023-05-29T16:37:07.815Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T16:37:07.816Z [Modules] No module updates available.
+2023-05-29T17:37:07.743Z [Modules] Checking for host updates.
+2023-05-29T17:37:07.899Z [Modules] Host is up to date.
+2023-05-29T17:37:07.899Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T17:37:07.960Z [Modules] No module updates available.
+2023-05-29T18:37:07.743Z [Modules] Checking for host updates.
+2023-05-29T18:37:07.893Z [Modules] Host is up to date.
+2023-05-29T18:37:07.894Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T18:37:08.010Z [Modules] No module updates available.
+2023-05-29T19:37:07.744Z [Modules] Checking for host updates.
+2023-05-29T19:37:07.915Z [Modules] Host is up to date.
+2023-05-29T19:37:07.915Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T19:37:07.953Z [Modules] No module updates available.
+2023-05-29T20:37:07.743Z [Modules] Checking for host updates.
+2023-05-29T20:37:07.886Z [Modules] Host is up to date.
+2023-05-29T20:37:07.886Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T20:37:08.022Z [Modules] No module updates available.
+2023-05-29T21:37:07.743Z [Modules] Checking for host updates.
+2023-05-29T21:37:07.851Z [Modules] Host is up to date.
+2023-05-29T21:37:07.851Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T21:37:07.886Z [Modules] No module updates available.
+2023-05-29T22:16:30.045Z [Modules] Modules initializing
+2023-05-29T22:16:30.045Z [Modules] Distribution: remote
+2023-05-29T22:16:30.045Z [Modules] Host updates: enabled
+2023-05-29T22:16:30.045Z [Modules] Module updates: enabled
+2023-05-29T22:16:30.045Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-29T22:16:30.045Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-29T22:16:30.045Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-29T22:16:30.156Z [Modules] No updates to install
+2023-05-29T22:16:30.157Z [Modules] Checking for host updates.
+2023-05-29T22:16:30.369Z [Modules] Host is up to date.
+2023-05-29T22:16:30.369Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T22:16:30.430Z [Modules] No module updates available.
+2023-05-29T22:16:39.132Z [Modules] Modules initializing
+2023-05-29T22:16:39.132Z [Modules] Distribution: remote
+2023-05-29T22:16:39.132Z [Modules] Host updates: enabled
+2023-05-29T22:16:39.132Z [Modules] Module updates: enabled
+2023-05-29T22:16:39.132Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-29T22:16:39.132Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-29T22:16:39.132Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-29T22:16:39.228Z [Modules] No updates to install
+2023-05-29T22:16:39.229Z [Modules] Checking for host updates.
+2023-05-29T22:16:39.582Z [Modules] Host is up to date.
+2023-05-29T22:16:39.583Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T22:16:39.584Z [Modules] No module updates available.
+2023-05-29T22:16:43.729Z [Modules] Checking for host updates.
+2023-05-29T22:16:43.800Z [Modules] Host is up to date.
+2023-05-29T22:16:43.800Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T22:16:43.801Z [Modules] No module updates available.
+2023-05-29T23:16:43.730Z [Modules] Checking for host updates.
+2023-05-29T23:16:43.848Z [Modules] Host is up to date.
+2023-05-29T23:16:43.848Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T23:16:43.883Z [Modules] No module updates available.
+2023-05-30T00:16:43.730Z [Modules] Checking for host updates.
+2023-05-30T00:16:43.851Z [Modules] Host is up to date.
+2023-05-30T00:16:43.851Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T00:16:43.914Z [Modules] No module updates available.
+2023-05-30T01:16:43.730Z [Modules] Checking for host updates.
+2023-05-30T01:16:43.817Z [Modules] Host is up to date.
+2023-05-30T01:16:43.817Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T01:16:43.853Z [Modules] No module updates available.
+2023-05-30T15:27:14.914Z [Modules] Modules initializing
+2023-05-30T15:27:14.914Z [Modules] Distribution: remote
+2023-05-30T15:27:14.914Z [Modules] Host updates: enabled
+2023-05-30T15:27:14.914Z [Modules] Module updates: enabled
+2023-05-30T15:27:14.914Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-30T15:27:14.914Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-30T15:27:14.914Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-30T15:27:15.033Z [Modules] No updates to install
+2023-05-30T15:27:15.033Z [Modules] Checking for host updates.
+2023-05-30T15:27:15.231Z [Modules] Host is up to date.
+2023-05-30T15:27:15.232Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T15:27:15.272Z [Modules] No module updates available.
+2023-05-30T15:27:16.448Z [Modules] Checking for host updates.
+2023-05-30T15:27:16.552Z [Modules] Host is up to date.
+2023-05-30T15:27:16.552Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T15:27:16.554Z [Modules] No module updates available.
+2023-05-30T16:27:17.587Z [Modules] Checking for host updates.
+2023-05-30T16:27:17.667Z [Modules] Host is up to date.
+2023-05-30T16:27:17.667Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T16:27:17.725Z [Modules] No module updates available.
+2023-05-30T17:27:17.587Z [Modules] Checking for host updates.
+2023-05-30T17:27:17.680Z [Modules] Host is up to date.
+2023-05-30T17:27:17.680Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T17:27:17.728Z [Modules] No module updates available.
+2023-05-30T18:06:46.845Z [Modules] Modules initializing
+2023-05-30T18:06:46.845Z [Modules] Distribution: remote
+2023-05-30T18:06:46.845Z [Modules] Host updates: enabled
+2023-05-30T18:06:46.845Z [Modules] Module updates: enabled
+2023-05-30T18:06:46.845Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-30T18:06:46.845Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-30T18:06:46.845Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-30T18:06:46.981Z [Modules] No updates to install
+2023-05-30T18:06:46.981Z [Modules] Checking for host updates.
+2023-05-30T18:06:47.171Z [Modules] Host is up to date.
+2023-05-30T18:06:47.171Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T18:06:47.212Z [Modules] No module updates available.
+2023-05-30T18:06:48.423Z [Modules] Checking for host updates.
+2023-05-30T18:06:48.493Z [Modules] Host is up to date.
+2023-05-30T18:06:48.493Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T18:06:48.494Z [Modules] No module updates available.
+2023-05-30T20:35:52.489Z [Modules] Modules initializing
+2023-05-30T20:35:52.490Z [Modules] Distribution: remote
+2023-05-30T20:35:52.490Z [Modules] Host updates: enabled
+2023-05-30T20:35:52.490Z [Modules] Module updates: enabled
+2023-05-30T20:35:52.490Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-30T20:35:52.490Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-30T20:35:52.490Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-30T20:35:52.563Z [Modules] No updates to install
+2023-05-30T20:35:52.564Z [Modules] Checking for host updates.
+2023-05-30T20:35:52.701Z [Modules] Host is up to date.
+2023-05-30T20:35:52.701Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T20:35:52.741Z [Modules] No module updates available.
+2023-05-30T20:35:53.748Z [Modules] Checking for host updates.
+2023-05-30T20:35:53.822Z [Modules] Host is up to date.
+2023-05-30T20:35:53.822Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T20:35:53.823Z [Modules] No module updates available.
+2023-05-30T20:57:13.637Z [Modules] Modules initializing
+2023-05-30T20:57:13.637Z [Modules] Distribution: remote
+2023-05-30T20:57:13.637Z [Modules] Host updates: enabled
+2023-05-30T20:57:13.637Z [Modules] Module updates: enabled
+2023-05-30T20:57:13.637Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-30T20:57:13.637Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-30T20:57:13.637Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-30T20:57:13.738Z [Modules] No updates to install
+2023-05-30T20:57:13.739Z [Modules] Checking for host updates.
+2023-05-30T20:57:13.908Z [Modules] Host is up to date.
+2023-05-30T20:57:13.909Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T20:57:13.943Z [Modules] No module updates available.
+2023-05-30T20:57:15.620Z [Modules] Checking for host updates.
+2023-05-30T20:57:15.685Z [Modules] Host is up to date.
+2023-05-30T20:57:15.685Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T20:57:15.686Z [Modules] No module updates available.
+2023-05-30T21:57:15.621Z [Modules] Checking for host updates.
+2023-05-30T21:57:16.048Z [Modules] Host is up to date.
+2023-05-30T21:57:16.048Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T21:57:16.117Z [Modules] No module updates available.
+2023-05-30T22:57:15.621Z [Modules] Checking for host updates.
+2023-05-30T22:57:15.801Z [Modules] Host is up to date.
+2023-05-30T22:57:15.801Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T22:57:15.861Z [Modules] No module updates available.
+2023-05-30T23:57:15.622Z [Modules] Checking for host updates.
+2023-05-30T23:57:15.707Z [Modules] Host is up to date.
+2023-05-30T23:57:15.707Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T23:57:15.744Z [Modules] No module updates available.
+2023-05-31T00:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T00:57:15.735Z [Modules] Host is up to date.
+2023-05-31T00:57:15.735Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T00:57:15.786Z [Modules] No module updates available.
+2023-05-31T01:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T01:57:15.741Z [Modules] Host is up to date.
+2023-05-31T01:57:15.741Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T01:57:15.778Z [Modules] No module updates available.
+2023-05-31T02:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T02:57:15.731Z [Modules] Host is up to date.
+2023-05-31T02:57:15.731Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T02:57:15.773Z [Modules] No module updates available.
+2023-05-31T03:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T03:57:15.732Z [Modules] Host is up to date.
+2023-05-31T03:57:15.732Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T03:57:15.776Z [Modules] No module updates available.
+2023-05-31T04:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T04:57:15.720Z [Modules] Host is up to date.
+2023-05-31T04:57:15.720Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T04:57:15.755Z [Modules] No module updates available.
+2023-05-31T05:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T05:57:15.722Z [Modules] Host is up to date.
+2023-05-31T05:57:15.722Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T05:57:15.758Z [Modules] No module updates available.
+2023-05-31T06:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T06:57:15.733Z [Modules] Host is up to date.
+2023-05-31T06:57:15.733Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T06:57:15.765Z [Modules] No module updates available.
+2023-05-31T07:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T07:57:15.714Z [Modules] Host is up to date.
+2023-05-31T07:57:15.714Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T07:57:15.744Z [Modules] No module updates available.
+2023-05-31T08:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T08:57:15.727Z [Modules] Host is up to date.
+2023-05-31T08:57:15.727Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T08:57:15.760Z [Modules] No module updates available.
+2023-05-31T09:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T09:57:15.740Z [Modules] Host is up to date.
+2023-05-31T09:57:15.740Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T09:57:15.777Z [Modules] No module updates available.
+2023-05-31T10:57:15.622Z [Modules] Checking for host updates.
+2023-05-31T10:57:15.727Z [Modules] Host is up to date.
+2023-05-31T10:57:15.727Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T10:57:15.765Z [Modules] No module updates available.
+2023-05-31T19:53:36.649Z [Modules] Modules initializing
+2023-05-31T19:53:36.649Z [Modules] Distribution: remote
+2023-05-31T19:53:36.649Z [Modules] Host updates: enabled
+2023-05-31T19:53:36.649Z [Modules] Module updates: enabled
+2023-05-31T19:53:36.650Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-05-31T19:53:36.650Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-05-31T19:53:36.650Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-05-31T19:53:36.790Z [Modules] No updates to install
+2023-05-31T19:53:36.790Z [Modules] Checking for host updates.
+2023-05-31T19:53:36.937Z [Modules] Host is up to date.
+2023-05-31T19:53:36.938Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T19:53:36.970Z [Modules] No module updates available.
+2023-05-31T19:53:38.931Z [Modules] Checking for host updates.
+2023-05-31T19:53:38.997Z [Modules] Host is up to date.
+2023-05-31T19:53:38.997Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T19:53:38.998Z [Modules] No module updates available.
+2023-05-31T20:53:38.932Z [Modules] Checking for host updates.
+2023-05-31T20:53:39.054Z [Modules] Host is up to date.
+2023-05-31T20:53:39.054Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T20:53:39.099Z [Modules] No module updates available.
+2023-05-31T21:53:38.931Z [Modules] Checking for host updates.
+2023-05-31T21:53:39.032Z [Modules] Host is up to date.
+2023-05-31T21:53:39.032Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T21:53:39.084Z [Modules] No module updates available.
+2023-05-31T22:53:38.932Z [Modules] Checking for host updates.
+2023-05-31T22:53:39.068Z [Modules] Host is up to date.
+2023-05-31T22:53:39.069Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T22:53:39.104Z [Modules] No module updates available.
+2023-05-31T23:53:38.932Z [Modules] Checking for host updates.
+2023-05-31T23:53:39.055Z [Modules] Host is up to date.
+2023-05-31T23:53:39.055Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T23:53:39.096Z [Modules] No module updates available.
+2023-06-01T00:53:39.305Z [Modules] Checking for host updates.
+2023-06-01T00:53:39.448Z [Modules] Host is up to date.
+2023-06-01T00:53:39.448Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T00:53:39.485Z [Modules] No module updates available.
+2023-06-01T13:17:43.388Z [Modules] Modules initializing
+2023-06-01T13:17:43.388Z [Modules] Distribution: remote
+2023-06-01T13:17:43.388Z [Modules] Host updates: enabled
+2023-06-01T13:17:43.388Z [Modules] Module updates: enabled
+2023-06-01T13:17:43.388Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-06-01T13:17:43.388Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-06-01T13:17:43.389Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-06-01T13:17:43.571Z [Modules] No updates to install
+2023-06-01T13:17:43.572Z [Modules] Checking for host updates.
+2023-06-01T13:17:43.734Z [Modules] Host is up to date.
+2023-06-01T13:17:43.734Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T13:17:43.766Z [Modules] No module updates available.
+2023-06-01T13:17:45.210Z [Modules] Checking for host updates.
+2023-06-01T13:17:45.289Z [Modules] Host is up to date.
+2023-06-01T13:17:45.289Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T13:17:45.291Z [Modules] No module updates available.
+2023-06-01T14:17:45.212Z [Modules] Checking for host updates.
+2023-06-01T14:17:45.333Z [Modules] Host is up to date.
+2023-06-01T14:17:45.333Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T14:17:45.380Z [Modules] No module updates available.
+2023-06-01T15:17:45.212Z [Modules] Checking for host updates.
+2023-06-01T15:17:45.306Z [Modules] Host is up to date.
+2023-06-01T15:17:45.307Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T15:17:45.352Z [Modules] No module updates available.
+2023-06-01T16:17:45.212Z [Modules] Checking for host updates.
+2023-06-01T16:17:45.323Z [Modules] Host is up to date.
+2023-06-01T16:17:45.323Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T16:17:45.359Z [Modules] No module updates available.
+2023-06-01T17:17:45.212Z [Modules] Checking for host updates.
+2023-06-01T17:17:45.317Z [Modules] Host is up to date.
+2023-06-01T17:17:45.317Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T17:17:45.352Z [Modules] No module updates available.
+2023-06-01T18:17:45.211Z [Modules] Checking for host updates.
+2023-06-01T18:17:45.336Z [Modules] Host is up to date.
+2023-06-01T18:17:45.336Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T18:17:45.375Z [Modules] No module updates available.
+2023-06-01T19:17:45.212Z [Modules] Checking for host updates.
+2023-06-01T19:17:45.285Z [Modules] Host is up to date.
+2023-06-01T19:17:45.285Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T19:17:45.325Z [Modules] No module updates available.
+2023-06-01T20:17:45.212Z [Modules] Checking for host updates.
+2023-06-01T20:17:45.323Z [Modules] Host is up to date.
+2023-06-01T20:17:45.323Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T20:17:45.371Z [Modules] No module updates available.
+2023-06-01T21:17:45.211Z [Modules] Checking for host updates.
+2023-06-01T21:17:45.345Z [Modules] Host is up to date.
+2023-06-01T21:17:45.345Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T21:17:45.389Z [Modules] No module updates available.
+2023-06-03T15:16:51.202Z [Modules] Modules initializing
+2023-06-03T15:16:51.202Z [Modules] Distribution: remote
+2023-06-03T15:16:51.202Z [Modules] Host updates: enabled
+2023-06-03T15:16:51.202Z [Modules] Module updates: enabled
+2023-06-03T15:16:51.202Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-06-03T15:16:51.202Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-06-03T15:16:51.202Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-06-03T15:16:51.372Z [Modules] No updates to install
+2023-06-03T15:16:51.373Z [Modules] Checking for host updates.
+2023-06-03T15:16:51.548Z [Modules] Host is up to date.
+2023-06-03T15:16:51.548Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T15:16:51.623Z [Modules] No module updates available.
+2023-06-03T15:16:53.562Z [Modules] Checking for host updates.
+2023-06-03T15:16:53.639Z [Modules] Host is up to date.
+2023-06-03T15:16:53.639Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T15:16:53.640Z [Modules] No module updates available.
+2023-06-03T16:16:53.564Z [Modules] Checking for host updates.
+2023-06-03T16:16:53.676Z [Modules] Host is up to date.
+2023-06-03T16:16:53.676Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T16:16:53.709Z [Modules] No module updates available.
+2023-06-03T17:16:53.564Z [Modules] Checking for host updates.
+2023-06-03T17:16:53.666Z [Modules] Host is up to date.
+2023-06-03T17:16:53.666Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T17:16:53.708Z [Modules] No module updates available.
+2023-06-03T18:16:53.563Z [Modules] Checking for host updates.
+2023-06-03T18:16:53.669Z [Modules] Host is up to date.
+2023-06-03T18:16:53.669Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T18:16:53.710Z [Modules] No module updates available.
+2023-06-03T19:16:53.563Z [Modules] Checking for host updates.
+2023-06-03T19:16:53.710Z [Modules] Host is up to date.
+2023-06-03T19:16:53.710Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T19:16:53.748Z [Modules] No module updates available.
+2023-06-03T20:16:53.564Z [Modules] Checking for host updates.
+2023-06-03T20:16:53.685Z [Modules] Host is up to date.
+2023-06-03T20:16:53.685Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T20:16:53.726Z [Modules] No module updates available.
+2023-06-03T21:16:53.564Z [Modules] Checking for host updates.
+2023-06-03T21:16:53.644Z [Modules] Host is up to date.
+2023-06-03T21:16:53.644Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T21:16:53.683Z [Modules] No module updates available.
+2023-06-03T22:16:53.564Z [Modules] Checking for host updates.
+2023-06-03T22:16:53.648Z [Modules] Host is up to date.
+2023-06-03T22:16:53.648Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T22:16:53.698Z [Modules] No module updates available.
+2023-06-04T13:07:34.721Z [Modules] Modules initializing
+2023-06-04T13:07:34.721Z [Modules] Distribution: remote
+2023-06-04T13:07:34.721Z [Modules] Host updates: enabled
+2023-06-04T13:07:34.721Z [Modules] Module updates: enabled
+2023-06-04T13:07:34.721Z [Modules] Module install path: /home/gfernandez/.config/discord/0.0.27/modules
+2023-06-04T13:07:34.721Z [Modules] Module installed file path: /home/gfernandez/.config/discord/0.0.27/modules/installed.json
+2023-06-04T13:07:34.721Z [Modules] Module download path: /home/gfernandez/.config/discord/0.0.27/modules/pending
+2023-06-04T13:07:34.918Z [Modules] No updates to install
+2023-06-04T13:07:34.919Z [Modules] Checking for host updates.
+2023-06-04T13:07:35.900Z [Modules] Host is up to date.
+2023-06-04T13:07:35.900Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T13:07:35.936Z [Modules] No module updates available.
+2023-06-04T13:07:37.370Z [Modules] Checking for host updates.
+2023-06-04T13:07:39.568Z [Modules] Host is up to date.
+2023-06-04T13:07:39.568Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T13:07:39.570Z [Modules] No module updates available.
+2023-06-04T14:07:37.372Z [Modules] Checking for host updates.
+2023-06-04T14:07:37.698Z [Modules] Host is up to date.
+2023-06-04T14:07:37.698Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T14:07:37.735Z [Modules] No module updates available.
+2023-06-04T15:07:37.372Z [Modules] Checking for host updates.
+2023-06-04T15:07:37.438Z [Modules] Host is up to date.
+2023-06-04T15:07:37.438Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T15:07:37.472Z [Modules] No module updates available.
+2023-06-04T16:07:37.372Z [Modules] Checking for host updates.
+2023-06-04T16:07:37.494Z [Modules] Host is up to date.
+2023-06-04T16:07:37.494Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T16:07:37.529Z [Modules] No module updates available.
+2023-06-04T17:07:37.373Z [Modules] Checking for host updates.
+2023-06-04T17:07:37.493Z [Modules] Host is up to date.
+2023-06-04T17:07:37.493Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T17:07:37.528Z [Modules] No module updates available.
+2023-06-04T18:07:37.372Z [Modules] Checking for host updates.
+2023-06-04T18:07:37.481Z [Modules] Host is up to date.
+2023-06-04T18:07:37.481Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T18:07:37.512Z [Modules] No module updates available.
+2023-06-04T19:07:37.371Z [Modules] Checking for host updates.
+2023-06-04T19:07:37.436Z [Modules] Host is up to date.
+2023-06-04T19:07:37.436Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T19:07:37.474Z [Modules] No module updates available.
+2023-06-04T20:07:37.372Z [Modules] Checking for host updates.
+2023-06-04T20:07:37.494Z [Modules] Host is up to date.
+2023-06-04T20:07:37.494Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T20:07:37.529Z [Modules] No module updates available.
+2023-06-04T21:07:37.372Z [Modules] Checking for host updates.
+2023-06-04T21:07:37.488Z [Modules] Host is up to date.
+2023-06-04T21:07:37.488Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T21:07:37.527Z [Modules] No module updates available.
