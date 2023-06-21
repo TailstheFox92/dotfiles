@@ -1,6 +1,0 @@
-2023/06/01-14:57:30.950 57a8 Creating DB /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_terraria.fandom.com_0.indexeddb.leveldb since it was missing.
-2023/06/01-14:57:30.956 57a8 Reusing MANIFEST /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_terraria.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/01-14:57:33.006 57a8 Level-0 table #5: started
-2023/06/01-14:57:33.008 57a8 Level-0 table #5: 3357 bytes OK
-2023/06/01-14:57:33.012 57a8 Delete type=0 #3
-2023/06/01-14:57:33.012 57a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

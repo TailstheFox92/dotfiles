@@ -1,7 +1,0 @@
-2023/06/04-15:30:28.633 561 Reusing MANIFEST /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/04-15:30:28.633 561 Recovering log #3
-2023/06/04-15:30:28.634 561 Reusing old log /home/gfernandez/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000003.log 
-2023/06/04-15:31:06.110 562 Level-0 table #5: started
-2023/06/04-15:31:06.113 562 Level-0 table #5: 9411 bytes OK
-2023/06/04-15:31:06.117 562 Delete type=0 #3
-2023/06/04-15:31:06.117 562 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
