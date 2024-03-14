@@ -1,1 +1,1 @@
-# tails-dotfiles
+# dotfiles
