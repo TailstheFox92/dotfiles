@@ -215,4 +215,4 @@ bar {
 }
 
 exec --no-startup-id picom --config ~/.config/picom/picom.conf -b
-exec xrandr -r 240
+# exec xrandr -r 240
