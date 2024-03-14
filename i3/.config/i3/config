@@ -13,7 +13,7 @@ set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 8
+font pango:monospace 0
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
@@ -62,6 +62,9 @@ bindsym $mod+q kill
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
 bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
+# Misc Applications
+bindsym $mod+a exec lightpad
+
 # change focus
 bindsym $mod+h focus left
 bindsym $mod+j focus down
@@ -107,7 +110,7 @@ bindsym $mod+f floating toggle
 bindsym $mod+space focus mode_toggle
 
 # focus the parent container
-bindsym $mod+a focus parent
+# bindsym $mod+a focus parent
 
 # focus the child container
 #bindsym $mod+d focus child
@@ -215,4 +218,5 @@ bar {
 }
 
 exec --no-startup-id picom --config ~/.config/picom/picom.conf -b
+exec dropbox start
 # exec xrandr -r 240
