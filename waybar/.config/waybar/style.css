@@ -31,13 +31,13 @@ window#waybar.hidden {
     font-size: 4px;
     margin-bottom: 0px;
     border-radius: 10px;
-    background: @theme_bg_color;
+    background: #1a1b26;
     transition: none;
 }
 
 #workspaces button {
     transition: none;
-    color: @theme_text_color;
+    color: #c0caf5;
     background: transparent;
     font-size: 16px;
     border-radius: 2px;
@@ -45,9 +45,13 @@ window#waybar.hidden {
 }
 
 #workspaces button.active {
-   color: @theme_text_color; 
-   border-top: 2px solid @theme_text_color;
-   border-bottom: 2px solid @theme_text_color;
+   color: #c0caf5; 
+   border-top: 2px solid #c0caf5;
+   border-bottom: 2px solid #c0caf5;
+}
+
+#workspaces button.empty {
+    color: #414868;
 }
 /* #tags {
 	margin-top: 6px;
@@ -219,7 +223,7 @@ window#waybar.hidden {
 	border-radius: 10px;
 	transition: none;
     color: #ABE9B3;
-    background: @theme_bg_color;
+    background: #1a1b26;
 }
 
 #custom-power {
