@@ -1,0 +1,15 @@
+frame_color = "#A9B1D6"
+separator_color= frame
+
+[urgency_low]
+background = "#1A1B26"
+foreground = "#A9B1D6"
+
+[urgency_normal]
+background = "#1A1B26"
+foreground = "#A9B1D6"
+
+[urgency_critical]
+background = "#1A1B26"
+foreground = "#A9B1D6"
+frame_color = "#F7768E"
