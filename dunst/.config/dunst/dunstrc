@@ -1,5 +1,11 @@
+[global]
 frame_color = "#A9B1D6"
-separator_color= frame
+separator_color = frame
+corner_radius = 8
+padding = 2
+progress_bar_corner_radius = 2
+layer = top
+dmenu = /usr/bin/rofi -dmenu
 
 [urgency_low]
 background = "#1A1B26"
