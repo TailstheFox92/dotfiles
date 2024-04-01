@@ -79,7 +79,7 @@
         "on-click": "playerctl play-pause"
     },
     "custom/launcher":{
-        "format": " ",
+        "format": " ",
         "on-click": "rofi -show drun -show-icons",
         "on-click-right": "killall rofi"
     },
